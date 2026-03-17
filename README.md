@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Arccc01\&show_icons=true\&theme=radical)
 
 ---
 
